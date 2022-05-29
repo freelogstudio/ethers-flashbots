@@ -1,0 +1,13 @@
+{
+  "name": "ethers-flashbots",
+  "version": "0.1.0",
+  "description": "ethers.js flashbots signer decorator",
+  "main": "lib/flashbots.js",
+  "repository": "https://github.com/freelogstudio/ethers-flashbots",
+  "author": "Freelog Studio LLC",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "@ethersproject/abstract-signer": "^5.6.2"
+  }
+}
